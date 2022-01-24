@@ -17,7 +17,7 @@
 - Bash
 ```
 
-## Coding Editors I like to use
+## Code Editors I like to use
 ```
 - VS Code
 - Pycharm
