@@ -29,7 +29,7 @@
 
 If you want to reach me then you can contact me using -
 - [Discord](https://discord.com) || probably araaa (BC)#5812
-- [Instagram](https://instagram.com) || AaTherf_
+- [Instagram](https://instagram.com) || [AaTherf_](https://instagram.com/aatherf_)
 - Mail - aatherfgamerplayzs@gmail.com
 
 ## Github Stats
