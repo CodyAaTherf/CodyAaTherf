@@ -20,7 +20,9 @@
 ## Coding Editors I like to use
 ```
 - VS Code
+- Pycharm
 - Atom
+- Sublime Text
 ```
 
 ## How to reach me?
