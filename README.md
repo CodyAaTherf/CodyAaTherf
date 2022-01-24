@@ -28,8 +28,8 @@
 ## How to reach me?
 
 If you want to reach me then you can contact me using -
-- [Discord](discord.com) || probably araaa (BC)#5812
-- [Instagram](instagram.com) || AaTherf_
+- [Discord](https://discord.com) || probably araaa (BC)#5812
+- [Instagram](https://instagram.com) || AaTherf_
 - Mail - aatherfgamerplayzs@gmail.com
 
 ## Github Stats
