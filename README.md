@@ -20,9 +20,12 @@
 ## Code Editors I like to use
 ```
 - VS Code
+- Visual Studio
+- IntellJ Idea
 - Pycharm
 - Atom
 - Sublime Text
+- Eclipse
 ```
 
 ## How to reach me?
