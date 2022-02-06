@@ -31,7 +31,7 @@
 ## How to reach me?
 
 If you want to reach me then you can contact me using -
-- [Discord](https://discord.com) || probably araaa (BC)#5812
+- [Discord](https://discord.com) || probably araaa#5812
 - Mail - aatherfgamerplayzs@gmail.com
 
 ## Github Stats
