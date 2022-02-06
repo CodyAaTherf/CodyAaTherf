@@ -1,6 +1,6 @@
 <div align="center" font-size="2rem">
 
-# 🙋‍♂️ Hello There! I am Atharv , A Front End Developer
+# 🙋‍♂️ Hello There! < private info censored >. I am a front end dev!
 
 ## Languages I know
 ```
@@ -32,7 +32,6 @@
 
 If you want to reach me then you can contact me using -
 - [Discord](https://discord.com) || probably araaa (BC)#5812
-- [Instagram](https://instagram.com) || [AaTherf_](https://instagram.com/aatherf_)
 - Mail - aatherfgamerplayzs@gmail.com
 
 ## Github Stats
