@@ -1,6 +1,6 @@
 <div align="center" font-size="2rem">
 
-# 🙋‍♂️ Hello There! < private info censored >. I am a front end dev!
+# 🙋‍♂️ Hello There! I am a _person_ !
 
 ## Languages I know
 ```
