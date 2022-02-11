@@ -1,6 +1,6 @@
 <div align="center" font-size="2rem">
 
-# 🙋‍♂️ Hello There! I am a _person_ !
+# 🙋‍♂️ Hello There! I am _censored info_.
 
 ## Languages I know
 ```
@@ -11,7 +11,6 @@
 - Typescript
 - HTML
 - CSS / Bootstrap
-- Rust ( Don't remember most of it xD )
 
 - MongoDB
 - Bash
@@ -20,18 +19,31 @@
 ## Code Editors I like to use
 ```
 - VS Code
-- Visual Studio
-- IntellJ Idea
 - Pycharm
 - Atom
 - Sublime Text
 - Eclipse
+- IntellJ Idea
+- Pycharm
 ```
+
+# My Projects
+
+[IPScanner](https://github.com/CodyAaTherf/IPScanner-py) in Python.
+[ReliableCmds](https://www.npmjs.com/package/reliablecmds) [NPM PACKAGE]
+
+# My Collabs and Orgs
+
+Founder of Red Rangers of India ( RRI ).
+
+## Working On:
+
+[AaRat Games Official](https://github.com/OfficialAaRat-RRI) [ Founder ]
 
 ## How to reach me?
 
 If you want to reach me then you can contact me using -
-- [Discord](https://discord.com) || probably araaa#5812
+- [Discord](discord.com) || probably araaa#5812
 - Mail - aatherfgamerplayzs@gmail.com
 
 ## Github Stats
