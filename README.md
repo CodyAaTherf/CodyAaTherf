@@ -46,6 +46,9 @@ If you want to reach me then you can contact me using -
 - [Discord](discord.com) || probably araaa#5812
 - Mail - aatherfgamerplayzs@gmail.com
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/731781452525469766
+                            )](https://discord.com/users/731781452525469766)
+
 ## Github Stats
 
 [![AaTherf's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodyAaTherf&count_private=true&theme=radical)](https://github.com/CodyAaTherf/github-readme-stats)
