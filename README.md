@@ -21,6 +21,6 @@
 
 # Socials
 
-- [GMail](aatherfgamerplayzs@gmail.com)
+- [GMail](mailto:aatherfgamerplayzs@gmail.com)
 - Discord -
 [![Discord Presence](https://lanyard.cnrad.dev/api/731781452525469766)](https://discord.com/users/731781452525469766)
