@@ -6,18 +6,8 @@
 
 [![My Wakatime Stats](https://wakatime.com/badge/user/038e9c8d-3c36-4d4d-a1e3-e6a3b7d06c26.svg?style=for-the-badge)](https://wakatime.com/@038e9c8d-3c36-4d4d-a1e3-e6a3b7d06c26)
 
-## Current Projects -
-
-- [Discord.js Command Handler](https://www.npmjs.com/package/reliablehandler)
-- [Discord.js Bot](https://github.com/CodyAaTherf/aatheral-bot)
-
-## Planned Projects -
-
-- [Chatting App](https://github.com/aatherf-chat/achat)
-
-## Other Repositories -
-
-- [My website which I am making](https://github.com/CodyAaTherf/website)
+# I NEED TO WORK ON THIS README LMAOO ( THERE WAS STUFF HERE BUT ITS OUTDATED ND STUFF IDK LMAO )
+have a good day enjoy :)
 
 # Socials
 
